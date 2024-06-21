@@ -16,3 +16,7 @@ var book = "A smarter way to learn JavaScript";
 alert("I am trying to learn from the book " + book);
 
 document.getElementById("demo").innerHTML = "Yah! I can write HTML content through JavaScript";
+
+
+var string = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+alert(string);
